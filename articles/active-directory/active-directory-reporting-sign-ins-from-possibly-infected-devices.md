@@ -19,7 +19,7 @@
 # Sign ins from possibly infected devices
 <p>This report attempts to identify your users' devices that that have become infected and are now part of a botnet (also known as a zombie army). We correlate IP addresses of users' sign ins against IP addresses that we know to be in contact with botnet servers.</p>
 <p>Recommendation: This report flags IP addresses, not user devices. We recommend that you contact the user and scan all the user's devices to be certain. It is also possible that a user's personal device is infected, or that someone other than the user, who was using the same IP address as the user, has an infected device. </p>
-<p>For more information about how to address malware infections, see the [Malware Protection Center](http://go.microsoft.com/fwlink/?linkid=335773). </p>
+<p>For more information about how to address malware infections, see the <a href="http://go.microsoft.com/fwlink/?linkid=335773">Malware Protection Center</a>. </p>
 
 
 ![Sign ins from possibly infected devices](./media/active-directory-reporting-sign-ins-from-possibly-infected-devices/signInsFromPossiblyInfectedDevices.PNG)
